@@ -1,0 +1,26 @@
+	CSS declarations (property and value)
+- font-family - define the typeface of an element
+- font-size - define the size of text displayed
+- font-weight - define how thin or thick text is displayed
+- text-align - define the places text in the left, right or center
+- color - define the color of the text
+- background-color - define the colo behind the text
+- opacity - make an element transparent
+- background-image - set the background of an element to an image
+- width and height - specifies the width and height of the content area
+- padding - specifies the amount of space between the content area and the border (top, bottom, right, left)
+- border - specifies the trickness and style of the border surrounding the content area and padding
+	width (thin, medium, thick)
+	style (none, dotted, solid)
+	color
+- border-radius - modify the corners of an element's border box
+- margin - specifies the amount of space between the border and the outsite edge of the element (top, bottom, right, left)
+	top and bottom - not sum of their adjacent margins
+	left and right - sum of their adjacent margins
+- min-width - ensures a minimum width of an element's box
+- max-width - ensures a maximum width of an element's box
+- min-height - ensures a minimum height for an element's box
+- max-height - ensures a maximum height for an element's box
+- overflow - control what happens to content that spills, or overflows, outside its box (hidden, scroll, visible)
+- visibility - set to one of the following values: hidden or visible
+- display - remove (none) or add (block) completely an element from the web page

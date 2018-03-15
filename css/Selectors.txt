@@ -1,0 +1,10 @@
+	Link css for the page
+- <link rel="stylesheet" href=<path> type="text/css">
+
+	HTML elements Selectors
+- tag (p, div, table)
+- class (.uppercase, .bold)
+- id (#home, #introduction)
+
+	Interesting things
+- !important - flag will override any style

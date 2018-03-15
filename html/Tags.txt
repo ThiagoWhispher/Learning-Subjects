@@ -1,0 +1,28 @@
+	Main tags
+<!DOCTYPE html> - declaration in the first line of the HTML files
+<head> - information about the web page
+<body> - code for visible HTML
+
+	Head tags
+<title> - title to web page
+
+	Body tags
+<p>, <span> and <div> - specify text or blocks
+<h1> to <h6> - headings and sub-headings
+<em> and <strong> - emphasize text
+<br> - line break
+<ol> - ordered lists
+	<li> - elements' list
+<ul> - unordered lists 
+	<li> - elements' list
+<img> - images (src alt)
+<video> - videos (src controls width height)
+<a> - link to internal pages, external pages or content on the same page (href target)
+<nav> - contains links to internal pages or content
+<table> - struct for the table
+	<tr> - add row to a table
+		<td> - add element data to a row (colspan rowspan)
+		<th> - add element table heading
+	<thead> - table's head
+	<tbody> - table's body
+	<tfoot> - table's footer
